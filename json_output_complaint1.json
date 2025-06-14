@@ -1,0 +1,12 @@
+{
+  "issues": [
+    {
+      "entity": "internet plan billing",
+      "type": "Billing Issue",
+      "sentiment": "NEGATIVE",
+      "urgency": "HIGH",
+      "follow_up": "Y",
+      "escalate_to": "Billing"
+    }
+  ]
+}
